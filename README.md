@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ... likedin profile- sayam sharma
 
-<!---
-SayamSharm/SayamSharm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ssayam200@gmail.com)](asthiseta@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=httpshttps://www.instagram.com/ssayam200/)](https://www.instagram.com/asthi_21_/)
+
