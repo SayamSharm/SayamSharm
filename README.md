@@ -25,17 +25,17 @@
 <hr>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/clang.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/python.svg"></code>
-  <code><img title="android" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/android.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/css.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/java.svg"></code> 
-  <code><img title="Kotlin" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/kotlin.svg"></code>
-  <code><img title="TecSeCo" height="30" src="https://github.com/StartCodeingWithSayam/photos/blob/master/comunity.svg"></code>
+  <code><img title="C" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/clang.svg"></code>
+  <code><img title="C++" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/cpp.svg"></code>
+  <code><img title="Python" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/python.svg"></code>
+  <code><img title="android" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/android.svg"></code>
+  <code><img title="Javascript" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html.svg"></code>
+  <code><img title="CSS" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/css.svg"></code>
+  <code><img title="Java" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/java.svg"></code> 
+  <code><img title="Kotlin" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/kotlin.svg"></code>
+  <code><img title="TecSeCo" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/comunity.svg"></code>
 </p>
 <hr>
 
