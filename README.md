@@ -1,11 +1,45 @@
-- 👋 Hi, I’m @SayamSharm
-- 👀 I’m interested in ... Native App Devolepment
-- 🌱 I’m currently learning ...Android Devlopment wiith Kotlin
-- 🌱 I’m currently working/practicing ...Android Devlopment wiith java
-- 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ... likedin profile- sayam sharma
-
-
+<h3 align="center">Hello there, I'm Sayam 👋</h3>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/____sayam200____/" title="Instagram Profile"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/insta.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Sayam Sharma, Computer Engineer & Software Developer from India
+  <br>
+  <br>
+  🎓 I graduated from Guru Nanak Dev University Computer Engineering Department
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  🔬 I’m currently working on Django
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: ssayam200@gmail.com">ssayam200@gmail.com</a>
+</p>
+<hr>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/clang.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/cpp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/python.svg"></code>
+  <code><img title="android" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/android.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/css.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/java.svg"></code>
+</p>
+<hr>
+÷
+<p align = "center">
+    ⭐️ From <a href="https://github.com/StartCodeingWithSayam/">StartCodeingWithSayam</a>
+</p>
 
 ![alt text](https://i.pinimg.com/originals/7c/f0/5c/7cf05cc7e6d379bb530187399df82e1d.jpg)
 
